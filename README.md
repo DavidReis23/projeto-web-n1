@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SISREF-TAUÁ - Sistema de Gerenciamento de Refeitório
 
 O **SISREF-TAUÁ** é uma aplicação em desenvolvimento voltada para o **gerenciamento de refeitórios escolares**, com foco principal no trabalho do **nutricionista** e na **consulta de informações pelos alunos**.
@@ -88,3 +89,6 @@ O projeto é executado diretamente no navegador, sem necessidade de backend nest
 - Este repositório representa a **fase inicial do projeto**.
 - Funcionalidades, estrutura e tecnologias podem ser ajustadas conforme o avanço da disciplina.
 - Futuramente, o projeto receberam a integração de banco de dados.
+=======
+# projeto-web-n1
+>>>>>>> 03114ae03d0845aa5a8c16ba440ab32f98728c22
